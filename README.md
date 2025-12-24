@@ -32,7 +32,7 @@ Upon completion, students will be able to:
 - **Secondary**: "SystemVerilog for Verification" by Chris Spear
 - **Reference**: "UVM Primer" by Ray Salemi
 - **Tools**: ModelSim/QuestaSim (academic license)
-  - Open Source Alternatives: Icarus Verilog (supports a subset of SystemVerilog, not OOP), GTKWave, uvm-python, [Verilator](https://www.youtube.com/watch?v=2zOmpArtdH4)
+  - Open Source Alternatives: Icarus Verilog (supports a subset of SystemVerilog, no OOP), GTKWave, uvm-python, [Verilator](https://www.youtube.com/watch?v=2zOmpArtdH4)
   - Optional: Synopsys VCS
 
 ---
